@@ -24,8 +24,8 @@ provide valuable insights for developers, researchers, and stakeholders invested
 
 
 Click here to view Interactive Maps:
-Contributor Locations: [here](https://aakashkotha.github.io/npm-contributors-map/)
-LDA Model: [here](https://aakashkotha.github.io/lda-visualization/)
+Contributor Locations: [here](https://aakashkotha.github.io/npm-contributors-map/) </br>
+LDA Model: [here](https://aakashkotha.github.io/lda-visualization/) </br>
 For a detailed and comprehensive description of our findings, please refer to our report. The report contains in-depth analysis, insights, and conclusions drawn from our research efforts.
 [Link to Report](link_to_report).
 Feel free to explore the report to gain a deeper understanding of our project findings.
