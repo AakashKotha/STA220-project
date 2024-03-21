@@ -36,8 +36,9 @@ Feel free to explore the report to gain a deeper understanding of our project fi
 ### Project Acknowledgements
 
 Both of the teammates, V V S Aakash Kotha & Nikita Bhrugumaharshi Emberi, contributed equally to the development of this project. While most of the work was done independently, 
-we utilized Language Models, specifically ChatGPT [10], whenever necessary to confirm details and enhance our understanding. We extend our sincere thanks to it for its valuable 
+we utilized Language Models, specifically ChatGPT, whenever necessary to confirm details and enhance our understanding. We extend our sincere thanks to it for its valuable 
 assistance throughout the project.
+
 
 Additionally, we would like to thank our **Prof. Peter Kramlinger & TA. Sophia Sun** for their guidance and support. Their insights and feedback were invaluable in shaping the 
 direction of our work.
