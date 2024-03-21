@@ -28,7 +28,7 @@ Contributor Locations: [here](https://aakashkotha.github.io/npm-contributors-map
 Locations of Contributors in Popular NPM packages: [here](https://aakashkotha.github.io/npm-popular-package-contributors-map/) </br>
 LDA Model: [here](https://aakashkotha.github.io/lda-visualization/) </br>
 For a detailed and comprehensive description of our findings, please refer to our report. The report contains in-depth analysis, insights, and conclusions drawn from our research efforts.
-[Link to Report]([link_to_report](https://github.com/AakashKotha/Unveiling-the-npm-Ecosystem-STA220-project/blob/main/STA220_Final_Report.pdf).
+[Link to Report](https://github.com/AakashKotha/Unveiling-the-npm-Ecosystem-STA220-project/blob/main/STA220_Final_Report.pdf).
 Feel free to explore the report to gain a deeper understanding of our project findings.
 
 
